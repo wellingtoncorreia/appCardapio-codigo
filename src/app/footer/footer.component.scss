@@ -1,0 +1,22 @@
+span:nth-child(2){
+    position: absolute;
+    color: #EF4444;
+    border-radius: 50%;
+    font-size: 1rem;
+    z-index: 100;
+    top: 6%;
+    left: 38%;
+    font-weight: bold;
+}
+
+.cart{
+    position: relative;
+}
+
+footer{
+    cursor: pointer;
+}
+
+footer:hover{
+    background-color: #a72e2e;
+}
