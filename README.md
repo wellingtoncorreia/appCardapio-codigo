@@ -25,7 +25,7 @@ Este é um projeto Angular para um sistema de gerenciamento de carrinho de compr
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/dev-burguer.git
+   git clone https://github.com/wellingtoncorreia/appCardapio-codigo.git
    cd dev-burguer
 
 
